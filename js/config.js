@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "ULTRON Server";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -90,10 +90,10 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/Mt Eden - Still Alive.ogg", name: "Mt Eden - Still Alive"},
-	{ogg: "songs/Beautiful Now - Feat Jon Bellion.ogg", name: "Beautiful Now - Feat Jon Bellion"},
+	// {ogg: "songs/Beautiful Now - Feat Jon Bellion.ogg", name: "Beautiful Now - Feat Jon Bellion"},
 	{ogg: "songs/Hatsune Miku - Loop Memory.ogg", name: "Hatsune Miku - Loop Memory"},
-	{ogg: "songs/gokuraku-jodo.ogg", name: "Gokuraku - Jodo"}
-	// {ogg: "songs/Two Feet - Quick Musical Doodles.ogg", name: "Two Feet - Quick Musical Doodles"},
+	{ogg: "songs/gokuraku-jodo.ogg", name: "Gokuraku - Jodo"},
+	{ogg: "songs/Two Feet - Quick Musical Doodles.ogg", name: "Two Feet - Quick Musical Doodles"}
 	// {ogg: "songs/Marshmello - Alone.ogg", name: "Marshmello - Alone"}
 ];
 
