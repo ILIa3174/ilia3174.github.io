@@ -68,11 +68,11 @@ config.background_map_based = false
 config.background_images = [
 	"touhou01.jpg",
 	"touhou02.jpg",
-	"touhou03.jpg",
+	// "touhou03.jpg",
 	"touhou04.jpg",
-	"touhou05.jpg",
+	// "touhou05.jpg",
 	"touhou06.jpg",
-	"touhou07.jpg",
+	// "touhou07.jpg",
 ]
 
 // (Image-background only)
@@ -112,18 +112,18 @@ config.music_show = true
 // (Use ogg files for compatibility with default Gmod)
 // (Place the audio files in the music folder)
 config.music_playlist = [
-	{
-		name: "Mt Eden - Still Alive",
-		file: "Mt Eden - Still Alive.ogg",
-	},
-	{
-		name: "Hatsune Miku - Loop Memory",
-		file: "Hatsune Miku - Loop Memory.ogg",
-	},
-	{
-		name: "Gokuraku - Jodo",
-		file: "gokuraku-jodo.ogg",
-	},
+	// {
+		// name: "Mt Eden - Still Alive",
+		// file: "Mt Eden - Still Alive.ogg",
+	// },
+	// {
+		// name: "Hatsune Miku - Loop Memory",
+		// file: "Hatsune Miku - Loop Memory.ogg",
+	// },
+	// {
+		// name: "Gokuraku - Jodo",
+		// file: "gokuraku-jodo.ogg",
+	// },
 	{
 		name: "Two Feet - Quick Musical Doodles",
 		file: "Two Feet - Quick Musical Doodles.ogg",
